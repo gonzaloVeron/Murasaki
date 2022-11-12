@@ -1,7 +1,7 @@
 <div class="readme">
     <div class="logo-container">    
         <div class="logo">
-            <img src="murasaki-logo.png">
+            <img src="murasakiLogo.png">
         </div>
     </div>
     <div class="content">
